@@ -210,16 +210,6 @@ The application provides access to multiple free TV sources:
 - **"VLC not found"**: Run `install_vlc.bat` to install VLC Media Player
 - **"Source loading failed"**: Try a different source or check internet connection
 
-## Contributing
-
-This is a demonstration application. For production use, consider:
-- Adding playlist management and favorites
-- Implementing channel recording capabilities
-- Adding more video controls and settings
-- Improving error handling and recovery
-- Adding EPG (Electronic Program Guide) support
-- Implementing channel recommendations
-
 ## License
 
 This project is for educational and demonstration purposes. Please respect the terms of service of the streaming sources and ensure compliance with local laws regarding streaming content.
