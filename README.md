@@ -245,5 +245,13 @@ The authors and copyright holders are not liable for any damages, losses, or iss
 For commercial licensing or permissions beyond personal use, please contact the developers.
 
 
+===
 
-# [CLICK HERE TO DOWNLOAD FREE-TV-APP.ZIP](https://github.com/KernFerm/Free-TV-App/releases/download/free-tv-app/FREE-TV-APP.zip)
+===
+
+
+
+
+# How To Download .zip 
+- Read :)
+### [CLICK HERE TO DOWNLOAD FREE-TV-APP.ZIP](https://github.com/KernFerm/Free-TV-App/releases/download/free-tv-app/FREE-TV-APP.zip)
