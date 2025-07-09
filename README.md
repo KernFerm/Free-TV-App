@@ -25,6 +25,8 @@ A modern, feature-rich IPTV player application with a user-friendly interface, d
    - Double-click `free_tv.exe`
    - No Python installation required!
 
+⚠️ **Important**: Do not move the `free_tv.exe` file or the `_internal` folder from their original location. The application requires these files to remain in their current directory structure to function properly.
+
 ## Features
 
 ### 🎨 Modern UI Design
@@ -43,7 +45,7 @@ A modern, feature-rich IPTV player application with a user-friendly interface, d
 - **Expandable Tree View**: Navigate through countries and channels easily
 - **Full Country Names**: Display proper country names (e.g., "United States (US)" instead of just "US")
 
-### � Enhanced Video Playback
+###   Enhanced Video Playback
 - **Real-time Search**: Search channels by name instantly
 - **Country Filter**: Filter channels by specific countries with full names
 - **Combined Filtering**: Search within specific countries
@@ -87,6 +89,8 @@ A modern, feature-rich IPTV player application with a user-friendly interface, d
    - Navigate to the `TV` folder
    - Double-click `free_tv.exe`
    - Ready to use - no additional software needed!
+
+⚠️ **Important**: Do not move the `free_tv.exe` file or the `_internal` folder from their original location. The application requires these files to remain in their current directory structure to function properly.
 
 ## Usage
 
@@ -203,6 +207,7 @@ The application provides access to multiple free TV sources:
 5. **Audio issues**: Check VLC audio settings and system volume
 6. **Sources not loading**: Try different sources from the Sources menu
 7. **Multi-source loading slow**: Large combined playlists may take longer to load
+8. **Application crashes or won't start**: Make sure you haven't moved the `free_tv.exe` file or the `_internal` folder from their original location
 
 ### Error Messages
 - **"Failed to load channels"**: Network connection issue or source unavailable
@@ -213,3 +218,28 @@ The application provides access to multiple free TV sources:
 ## License
 
 This project is for educational and demonstration purposes. Please respect the terms of service of the streaming sources and ensure compliance with local laws regarding streaming content.
+
+FREE TV APPLICATION LICENSE
+
+Copyright (c) 2025 Free TV App
+
+PERSONAL USE LICENSE
+
+This software is provided free of charge for personal, non-commercial use only.
+
+PERMITTED USES:
+- Personal viewing and entertainment
+- Educational purposes
+- Research and development for personal projects
+
+RESTRICTIONS:
+- Commercial use is prohibited without explicit written permission
+- Distribution of this software requires prior authorization
+- Redistribution must retain this license notice
+- NO MODIFICATIONS!!
+- The software is provided "as is" without warranty of any kind
+
+DISCLAIMER:
+The authors and copyright holders are not liable for any damages, losses, or issues arising from the use of this software. Users assume all responsibility for compliance with applicable laws and regulations.
+
+For commercial licensing or permissions beyond personal use, please contact the developers.
