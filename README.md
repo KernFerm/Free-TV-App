@@ -244,5 +244,6 @@ The application provides access to multiple free TV sources:
 ---
 # How To Download .zip 
 - Read :)
-### [CLICK HERE TO DOWNLOAD FREE-TV-APP.ZIP](https://github.com/KernFerm/Free-TV-App/releases/download/free-tv-app/FREE-TV-APP.zip)
+### [CLICK HERE TO DOWNLOAD FREE-TV-APP.ZIP V2.1](https://github.com/KernFerm/Free-TV-App/releases/download/free-tv-app/FREE-TV-APP.zip)
+- `v6.0` stay updated
 ---
