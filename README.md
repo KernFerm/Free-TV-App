@@ -16,10 +16,11 @@ A modern, feature-rich IPTV player application with a user-friendly interface, d
    - Windows: `choco install vlc` (if you have Chocolatey)
 - ⬇️⬇️
 ### Running the Application
+- ⬇️⬇️
 1. **Install VLC Media Player** (required):
    - Run `install_vlc.bat` for automatic installation
    - Or manually download from https://www.videolan.org/vlc/
-
+- ⬇️⬇️
 2. **Launch the Application**:
    - Navigate to the `TV` folder
    - Double-click `free_tv.exe`
