@@ -5,9 +5,11 @@ A modern, feature-rich IPTV player application with a user-friendly interface, d
 ## ⚡ Quick Start
 - ⬇️⬇️
 ### Prerequisites
+- ⬇️⬇️
 **VLC Media Player must be installed** for video playback.
 - ⬇️⬇️
 #### Installation:
+- ⬇️⬇️
 1. **Download VLC**: Visit https://www.videolan.org/vlc/
 2. **Install VLC**: Run the installer with default settings
 3. **Alternative methods**:
