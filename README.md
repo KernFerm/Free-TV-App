@@ -1,6 +1,12 @@
 # Free TV Player - Modern Edition
 
-A modern, feature-rich IPTV player application with a user-friendly interface, designed to stream free TV channels from around the world. This is a standalone Windows executable that requires no Python installation.
+A modern, feature-rich IPTV player appli### 🎛️ Menu System
+- **File Menu**: Open custom playlists, reload, and exit
+- **View Menu**: Fullscreen mode, expand/collapse countries
+- **Playback Menu**: All playback controls with shortcuts
+- **Sources Menu**: Access multiple free TV sources and multi-source loading
+- **VPN Menu**: VPN manager, status checking, and geo-blocked content help
+- **Help Menu**: About dialog, keyboard shortcuts, license, and free TV sources info with a user-friendly interface, designed to stream free TV channels from around the world. This is a standalone Windows executable that requires no Python installation.
 
 ## ⚡ Quick Start
 
@@ -28,6 +34,16 @@ A modern, feature-rich IPTV player application with a user-friendly interface, d
 ⚠️ **Important**: Do not move the `free_tv.exe` file or the `_internal` folder from their original location. The application requires these files to remain in their current directory structure to function properly.
 
 ## Features
+
+### 🔒 VPN Integration & Geo-blocked Content Access
+- **Real-time VPN Detection**: Automatic detection of VPN connections and status
+- **VPN Manager**: Comprehensive VPN management through dedicated VPN menu
+- **VPN Status Display**: See your current IP address, location, and VPN provider
+- **Geo-blocked Content Support**: Access geo-restricted channels from different countries
+- **VPN Connection Monitoring**: Continuous monitoring of VPN status changes
+- **Popular VPN Support**: Works with ExpressVPN, NordVPN, Surfshark, ProtonVPN, and more
+- **Location-based Channel Access**: Connect to specific countries to unlock regional content
+- **No Longer Experimental**: VPN features are fully integrated and stable
 
 ### 🎨 Modern UI Design
 - **Dark Theme**: Sleek, modern dark interface that's easy on the eyes
@@ -135,10 +151,16 @@ Use the **Sources** menu to access various free TV sources:
   - Sports Channels: Free sports and fitness channels
   - Custom URL: Load any M3U playlist from a URL
   - Multi-source Loading: Combine channels from multiple sources
+- **VPN Menu**:
+  - VPN Manager: Comprehensive VPN status and management
+  - Check VPN Status: Quick VPN connection verification
+  - Refresh VPN Status: Force refresh VPN detection
+  - Geo-blocked Content Help: Information about accessing regional content
 - **Help Menu**:
   - About dialog
   - Keyboard shortcuts reference
   - Free TV Sources Info: Details about all available sources
+  - License: View software license terms
 
 ### Keyboard Shortcuts
 - **Ctrl+O**: Open playlist file
@@ -148,6 +170,7 @@ Use the **Sources** menu to access various free TV sources:
 - **M**: Toggle mute
 - **Ctrl+↑/↓**: Volume up/down
 - **Ctrl+E**: Expand all countries
+- **Ctrl+V**: Open VPN Manager
 - **Ctrl+Q**: Exit application
 - **F1**: Show shortcuts help
 
@@ -192,6 +215,48 @@ The application provides access to multiple free TV sources:
 - **Multi-source Loading**: Combine channels from multiple sources simultaneously for maximum variety
 - **Automatic Categorization**: All sources are automatically organized by country
 - **Legal Compliance**: All sources contain publicly available, legal streams
+- **VPN Integration**: Access geo-restricted content with VPN support
+- **Real-time VPN Detection**: Automatic detection and monitoring of VPN connections
+
+## VPN Support & Geo-blocked Content
+
+### 🌍 Accessing International Content
+Many TV channels are geo-restricted and only available in specific countries. The Free TV Player includes comprehensive VPN support to help you access international content legally.
+
+### VPN Features
+- **Automatic VPN Detection**: The app automatically detects when you're connected to a VPN
+- **Real-time Status Monitoring**: Continuous monitoring of your VPN connection status
+- **Location Display**: Shows your current IP address, location, and VPN provider
+- **VPN Manager**: Dedicated interface for managing VPN connections and status
+- **Geo-blocked Content Help**: Built-in guidance for accessing regional content
+
+### How to Access Geo-restricted Channels
+1. **Connect your VPN first** before starting the Free TV Player
+2. **Choose the right server location**:
+   - 🇺🇸 **US servers** - for American channels (NBC, ABC, CBS, FOX)
+   - 🇬🇧 **UK servers** - for British channels (BBC, ITV, Channel 4)
+   - 🇩🇪 **German servers** - for German channels (ARD, ZDF, RTL)
+   - 🇯🇵 **Japanese servers** - for Japanese content
+   - 🇨🇦 **Canadian servers** - for Canadian content (CBC, CTV)
+3. **Start the Free TV Player** - it will detect your VPN automatically
+4. **Access VPN Manager** via VPN menu (Ctrl+V) to verify your connection
+5. **Try geo-restricted channels** - they should now work!
+
+### Supported VPN Services
+The application works with all major VPN providers:
+- **ExpressVPN** - Fast, many server locations
+- **NordVPN** - Excellent for streaming
+- **Surfshark** - Budget-friendly option
+- **ProtonVPN** - Has free tier with limited servers
+- **Windscribe** - 10GB free monthly
+- **CyberGhost, Private Internet Access, and others**
+
+### Free Content (No VPN Required)
+- 📰 **International news** - BBC World, France 24, RT, Al Jazeera
+- 🌍 **Public broadcasters** - Most government/public channels
+- 🎵 **Music channels** - MTV International, music videos
+- 📚 **Educational content** - Learning and documentary channels
+- 🏈 **Some sports** - Olympic coverage, international events
 
 ## Requirements
 
@@ -208,41 +273,38 @@ The application provides access to multiple free TV sources:
 6. **Sources not loading**: Try different sources from the Sources menu
 7. **Multi-source loading slow**: Large combined playlists may take longer to load
 8. **Application crashes or won't start**: Make sure you haven't moved the `free_tv.exe` file or the `_internal` folder from their original location
+9. **VPN not detected**: Ensure your VPN is connected before starting the application
+10. **Geo-blocked channels still blocked**: Try different VPN server locations or refresh VPN status
 
 ### Error Messages
 - **"Failed to load channels"**: Network connection issue or source unavailable
 - **"Playback Error"**: Stream may be unavailable or VLC issue
 - **"VLC not found"**: Run `install_vlc.bat` to install VLC Media Player
 - **"Source loading failed"**: Try a different source or check internet connection
+- **"VPN detection error"**: VPN service may not be compatible or connection issue
+- **"Geo-blocked content"**: Connect to appropriate VPN server location
+
+## Contributing
+
+This is a demonstration application. For production use, consider:
+- Adding playlist management and favorites
+- Implementing channel recording capabilities
+- Adding more video controls and settings
+- Improving error handling and recovery
+- Adding EPG (Electronic Program Guide) support
+- Implementing channel recommendations
 
 ## License
-
-This project is for educational and demonstration purposes. Please respect the terms of service of the streaming sources and ensure compliance with local laws regarding streaming content.
-
-FREE TV APPLICATION LICENSE
-
-Copyright (c) 2025 Free TV App
-
-PERSONAL USE LICENSE
-
-This software is provided free of charge for personal, non-commercial use only.
-
-PERMITTED USES:
-- Personal viewing and entertainment
-- Educational purposes
-- Research and development for personal projects
-
-RESTRICTIONS:
-- Commercial use is prohibited without explicit written permission
-- Distribution of this software requires prior authorization
-- Redistribution must retain this license notice
-- NO MODIFICATIONS!!
-- The software is provided "as is" without warranty of any kind
-
-DISCLAIMER:
-The authors and copyright holders are not liable for any damages, losses, or issues arising from the use of this software. Users assume all responsibility for compliance with applicable laws and regulations.
-
-For commercial licensing or permissions beyond personal use, please contact the developers.
+ 
+This project is proprietary and all rights are reserved by the author. 
+Unauthorized copying, distribution, or modification of this project is strictly prohibited. 
+Unless You have written permission from the Developer or BubblesTheDev. 
+For Educational Purposes Only: 
+This application is intended for educational purposes only. 
+Content Disclaimer: 
+This application provides access to publicly available streaming content. Users are responsible for ensuring their use complies with all applicable laws and content licensing terms. 
+No Warranty: 
+This software is provided "as is" without warranty of any kind. 
 
 
 ===
