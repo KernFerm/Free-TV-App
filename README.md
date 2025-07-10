@@ -6,7 +6,7 @@ A modern, feature-rich IPTV player application with a user-friendly interface, d
 - ⬇️⬇️
 ### Prerequisites
 - ⬇️⬇️
-- `VLC Media Player must be installed** for video playback`
+- `VLC Media Player **MUST** be installed for video playback`
 - ⬇️⬇️
 #### Installation:
 - ⬇️⬇️
