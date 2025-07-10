@@ -1,6 +1,6 @@
 # Free TV Player - Modern Edition
 
-A modern, feature-rich IPTV player appli### 🎛️ Menu System
+A modern, feature-rich IPTV player application 🎛️ Menu System
 - **File Menu**: Open custom playlists, reload, and exit
 - **View Menu**: Fullscreen mode, expand/collapse countries
 - **Playback Menu**: All playback controls with shortcuts
