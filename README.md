@@ -141,6 +141,9 @@ Use the **Sources** menu to access various free TV sources:
   - Free TV Sources Info: Details about all available sources
 
 ### Keyboard Shortcuts
+- `some of the shortcut keys dont work, i was updating it adding vpn support then i went in circles messed the whole code up so this is the final exe.`
+- ` I WILL MAKE ANOTHER APPLICATION IN THE FUTURE AND SAVE A BACKUP OF THE ORG CODE`
+
 - **Ctrl+O**: Open playlist file
 - **F5**: Reload playlist
 - **F11**: Toggle fullscreen
