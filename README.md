@@ -39,6 +39,7 @@ A modern, feature-rich IPTV player application with a user-friendly interface, d
 - **Menu Bar**: Comprehensive menu system with shortcuts and actions
 - ⬇️⬇️
 ### 🌍 Enhanced Channel Organization
+- ⬇️⬇️
 - **Country-Based Categorization**: Channels automatically grouped by country with full country names
 - **Intelligent Country Detection**: Advanced algorithm that detects countries from multiple sources:
   - Channel metadata (tvg-country attribute)
