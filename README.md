@@ -33,6 +33,7 @@ A modern, feature-rich IPTV player application with a user-friendly interface, d
 ## Features
 - ⬇️⬇️
 ### 🎨 Modern UI Design
+- ⬇️⬇️
 - **Dark Theme**: Sleek, modern dark interface that's easy on the eyes
 - **Responsive Layout**: Resizable panels with intuitive splitter
 - **Professional Styling**: Modern buttons, inputs, and controls
@@ -50,12 +51,14 @@ A modern, feature-rich IPTV player application with a user-friendly interface, d
 - **Full Country Names**: Display proper country names (e.g., "United States (US)" instead of just "US")
 - ⬇️⬇️
 ###   Enhanced Video Playback
+- ⬇️⬇️
 - **Real-time Search**: Search channels by name instantly
 - **Country Filter**: Filter channels by specific countries with full names
 - **Combined Filtering**: Search within specific countries
 - **Smart Filtering**: Automatically expand matching results
 - ⬇️⬇️
 ### 📺 Multiple Free TV Sources
+- ⬇️⬇️
 - **IPTV-Org**: Global collection of 8000+ free public channels
 - **Free TV Project**: Curated collection of free-to-air channels
 - **Pluto TV-style**: Free internet TV channels with various genres
@@ -77,6 +80,7 @@ A modern, feature-rich IPTV player application with a user-friendly interface, d
 - **Help Menu**: About dialog, keyboard shortcuts, and free TV sources info
 - ⬇️⬇️
 ### ⚡ Performance & Usability
+- ⬇️⬇️
 - **Background Loading**: Channels load in a separate thread
 - **Progress Indication**: Visual feedback during channel loading
 - **Error Handling**: Graceful handling of network and playback errors
@@ -99,6 +103,7 @@ A modern, feature-rich IPTV player application with a user-friendly interface, d
 ## Usage
 - ⬇️⬇️
 ### Getting Started
+- ⬇️⬇️
 1. Run `install_vlc.bat` to install VLC Media Player (if not already installed)
 2. Navigate to the `TV` folder and double-click `free_tv.exe`
 3. Wait for channels to load (progress bar will show loading status)
@@ -108,6 +113,7 @@ A modern, feature-rich IPTV player application with a user-friendly interface, d
 7. Double-click any channel to start playing
 - ⬇️⬇️
 ### Accessing Different TV Sources
+- ⬇️⬇️
 Use the **Sources** menu to access various free TV sources:
 - **IPTV-Org**: Default source with global channels
 - **Free TV Project**: Curated free-to-air channels
@@ -119,6 +125,7 @@ Use the **Sources** menu to access various free TV sources:
 - **Multi-source Loading**: Combine channels from multiple sources for maximum variety
 - ⬇️⬇️
 ### Menu System
+- ⬇️⬇️
 - **File Menu**: 
   - Open custom M3U playlist files
   - Reload current playlist
@@ -145,6 +152,7 @@ Use the **Sources** menu to access various free TV sources:
   - Free TV Sources Info: Details about all available sources
 - ⬇️⬇️
 ### Keyboard Shortcuts
+- ⬇️⬇️
 - `some of the shortcut keys dont work, i was updating it adding vpn support then i went in circles messed the whole code up so this is the final exe.`
 - ` I WILL MAKE ANOTHER APPLICATION IN THE FUTURE AND SAVE A BACKUP OF THE ORG CODE`
 - ⬇️⬇️
@@ -159,6 +167,7 @@ Use the **Sources** menu to access various free TV sources:
 - **F1**: Show shortcuts help
 - ⬇️⬇️
 ### Controls
+- ⬇️⬇️
 - **Play/Pause**: Toggle playback of current channel
 - **Stop**: Stop playback completely
 - **Volume**: Adjust audio volume with the slider
@@ -167,6 +176,7 @@ Use the **Sources** menu to access various free TV sources:
 - **Country Filter**: Select specific countries to browse
 - ⬇️⬇️
 ### Channel Organization
+- ⬇️⬇️
 Channels are automatically organized by:
 - **Country**: Detected from multiple sources including metadata, titles, and broadcaster databases
 - **Full Names**: Countries shown with proper names (e.g., "United States (US)")
@@ -176,6 +186,7 @@ Channels are automatically organized by:
 ## Quick Start Scripts
 - ⬇️⬇️
 ### VLC Installation Script
+- ⬇️⬇️
 ```batch
 install_vlc.bat
 ```
@@ -187,6 +198,7 @@ This script automatically installs VLC Media Player using Windows Package Manage
 The application provides access to multiple free TV sources:
 - ⬇️⬇️
 ### Primary Sources
+- ⬇️⬇️
 - **IPTV-Org**: 8000+ free public channels worldwide with regular updates
 - **Free TV Project**: Curated collection of free-to-air channels
 - **Pluto TV-style**: Free internet TV channels with various genres
@@ -195,6 +207,7 @@ The application provides access to multiple free TV sources:
 - **Sports Channels**: Free sports and fitness channels
 - ⬇️⬇️
 ### Advanced Features
+- ⬇️⬇️
 - **Custom URL**: Load any M3U playlist from a URL
 - **Multi-source Loading**: Combine channels from multiple sources simultaneously for maximum variety
 - **Automatic Categorization**: All sources are automatically organized by country
@@ -207,6 +220,7 @@ The application provides access to multiple free TV sources:
 - **Internet Connection** (for streaming channels)
 - ⬇️⬇️
 ## Troubleshooting
+- ⬇️⬇️
 1. **Application won't start**: Ensure VLC is installed (run `install_vlc.bat`)
 2. **No video playback**: Restart the application after VLC installation
 3. **Slow loading**: Check internet connection
@@ -217,6 +231,7 @@ The application provides access to multiple free TV sources:
 8. **Application crashes or won't start**: Make sure you haven't moved the `free_tv.exe` file or the `_internal` folder from their original location
 - ⬇️⬇️
 ### Error Messages
+- ⬇️⬇️
 - **"Failed to load channels"**: Network connection issue or source unavailable
 - **"Playback Error"**: Stream may be unavailable or VLC issue
 - **"VLC not found"**: Run `install_vlc.bat` to install VLC Media Player
