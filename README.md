@@ -247,3 +247,6 @@ The application provides access to multiple free TV sources:
 ### [CLICK HERE TO DOWNLOAD FREE-TV-APP.ZIP V2.1](https://github.com/KernFerm/Free-TV-App/releases/download/free-tv-app/FREE-TV-APP.zip)
 - `v6.0` stay updated
 ---
+# Join the discord if you need help 
+
+[https://fnbubbles420.org/discordinvite](https://fnbubbles420.org/discordinvite)
