@@ -71,6 +71,7 @@ Welcome to the Enhanced TV App! 🎉 This simple program lets you watch your fav
 	  pip install -r requirements.txt
 	  ```
 	- Or, you can use a batch file (see below) to do this with a double-click.
+ - Linux and Mac `install-requirements.sh`.
 
 3. ▶️ **Start the App**
 	- In the same command window, type:
@@ -92,3 +93,4 @@ Just double-click this file to automatically install everything the app needs.
 **❓ Need Help?**
 
 If you have trouble, make sure you have Python and VLC installed, and that you followed the steps above. Enjoy your enhanced TV experience! 🎈
+
