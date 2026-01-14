@@ -1,6 +1,5 @@
 
 
-
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)
 ![VLC Required](https://img.shields.io/badge/VLC-Required-orange?logo=vlc-media-player)
 ![License](https://img.shields.io/badge/License-MIT-green)
